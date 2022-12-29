@@ -4,9 +4,6 @@ import { ErrorDialogComponent } from './components/error-dialog/error-dialog.com
 import { AppMaterialModule } from './app-material/app-material.module';
 import { CategoryPipe } from './pipes/category.pipe';
 
-
-
-
 @NgModule({
   declarations: [
     ErrorDialogComponent,
